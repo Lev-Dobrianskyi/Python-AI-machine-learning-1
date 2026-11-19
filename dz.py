@@ -1,0 +1,1 @@
+print("AI without ML: \n    1. choices in programs, when something has to happen but while abiding a set of rules, like checking if a move in a table game is legal\n    2. spam filters using a banned-words list\nAI with ML: \n    1. youtube recommendations, spotify etc\n    2. modern voice to text programs")
